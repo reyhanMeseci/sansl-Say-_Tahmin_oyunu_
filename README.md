@@ -2,7 +2,6 @@
 C# proglamlama diliyle yazdığım basit bir sayı tahmin oyunudur.
 kullanıcı 1 ile 100 arasında bir sayı tahmin eder ve program doğru sayıyı bilene kadar yönlendirme yapar.
 //!!!kullanılankonular!!!
-6 denemeye sahiptir.
 if/else koşulları
 while döngüsü
 random sınıfı
